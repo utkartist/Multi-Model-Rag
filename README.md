@@ -2,7 +2,7 @@
 Multimodal Retrieval-Augmented Generation (RAG) is an advanced technique that combines text and image data to enhance the capabilities of large language models (LLMs) like GPT-4. This tutorial will guide you through the process of implementing a multimodal RAG system using GPT-4 and Llama Index.
 
 Multi-Modal Retrieval-Augmented Generation (RAG) Model
-Overview
+## Overview
 This project implements a Multi-Modal Retrieval-Augmented Generation (RAG) model, which integrates information retrieval with text generation to produce more accurate and contextually relevant outputs. The model is capable of processing multiple modalities, such as text and images, to enhance its retrieval and generation capabilities.
 
 Features
@@ -12,8 +12,19 @@ Improved Text Generation: Leverages retrieved information to generate more accur
 Extensible Architecture: Easily adaptable to different datasets and tasks.
 
 
+
+
+![Screenshot 2024-07-30 192003](https://github.com/user-attachments/assets/9346c1d6-c5ee-4d39-b380-bca145edf5cc)
+
+
+![Screenshot 2024-07-30 192025](https://github.com/user-attachments/assets/792da6a3-b4e2-423b-ab85-fdda959e8206)
+
+
+
+
+
 ## MULTI MODEL RAG FOR ELECTRIC VEHICLES BASED ON TESLA CARS
-This repository contains code demonstrating a multi-model retrieval-augmented generation (RAG) approach for electric vehicles, specifically focusing on Tesla cars.
+This repository contains code demonstrating a multi-model retrieval-augmented generation (RAG) approach taking electric cars as an example, specifically focusing on Tesla cars.
 
 # Multimodal RAG extends traditional text-based RAG by incorporating image data:
 
@@ -59,6 +70,14 @@ This project demonstrates how to use Multimodal RAG (Retrieval-Augmented Generat
 ### Inference
 The inference process involves querying the vector database with images, retrieving relevant information, and using the Multimodal RAG model to generate coherent and informative responses. The model leverages both textual and visual data to enhance its understanding and generation capabilities.
 
+
+
+
+
+![Screenshot 2024-07-30 184259](https://github.com/user-attachments/assets/202cb9a0-d0a5-4bfb-818d-c76e36786ad2)
+
+
+![Screenshot 2024-07-30 184328](https://github.com/user-attachments/assets/c9cdf48a-7443-4d45-9850-75bdccf459e0)
 
 
 
