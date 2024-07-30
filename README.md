@@ -11,9 +11,6 @@ Enhanced Retrieval Mechanism: Utilizes a sophisticated retrieval system to fetch
 Improved Text Generation: Leverages retrieved information to generate more accurate and relevant text outputs.
 Extensible Architecture: Easily adaptable to different datasets and tasks.
 
-![alt text](<Screenshot 2024-07-30 192003.png>)
-
-![alt text](<Screenshot 2024-07-30 192025.png>)
 
 ## MULTI MODEL RAG FOR ELECTRIC VEHICLES BASED ON TESLA CARS
 This repository contains code demonstrating a multi-model retrieval-augmented generation (RAG) approach for electric vehicles, specifically focusing on Tesla cars.
@@ -61,10 +58,6 @@ This project demonstrates how to use Multimodal RAG (Retrieval-Augmented Generat
 
 ### Inference
 The inference process involves querying the vector database with images, retrieving relevant information, and using the Multimodal RAG model to generate coherent and informative responses. The model leverages both textual and visual data to enhance its understanding and generation capabilities.
-
-![alt text](<Screenshot 2024-07-30 184259.png>)
-
-![alt text](<Screenshot 2024-07-30 184328.png>)
 
 
 
