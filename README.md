@@ -48,7 +48,7 @@ Generation: The LLM generates a response based on the augmented input.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Model Description](#model-training)
+- [Model Description](#model-description)
 - [Inference](#inference)
 - [Contributing](#contributing)
 - [License](#license)
