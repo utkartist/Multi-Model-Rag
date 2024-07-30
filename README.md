@@ -14,10 +14,14 @@ Extensible Architecture: Easily adaptable to different datasets and tasks.
 
 
 
-![Screenshot 2024-07-30 192003](https://github.com/user-attachments/assets/9346c1d6-c5ee-4d39-b380-bca145edf5cc)
+
 
 
 ![Screenshot 2024-07-30 192025](https://github.com/user-attachments/assets/792da6a3-b4e2-423b-ab85-fdda959e8206)
+
+
+
+![Screenshot 2024-07-30 192003](https://github.com/user-attachments/assets/9346c1d6-c5ee-4d39-b380-bca145edf5cc)
 
 
 
